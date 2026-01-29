@@ -22,31 +22,6 @@ Front-End Developer focused on building clean, responsive, and user-friendly web
 
 ---
 
-## 💼 Experience
-
-**Front-End Developer — Oneflare Tech Solutions (2025)**
-
-* Refactored and modernized legacy codebases to current development standards
-* Built reusable UI components to improve consistency and UX
-* Maintained and supported existing production applications
-* Collaborated with backend developers to integrate APIs seamlessly
-
-**Front-End Web Developer — Septa (2024)**
-
-* Built dynamic, responsive web applications using React.js and Tailwind CSS
-* Developed full-stack CRUD applications consuming RESTful APIs
-* Worked with Node.js and PostgreSQL to enable real-time data updates
-
----
-
-## 📌 Featured Projects
-
-* **School Circle App** — school management and community-focused platform
-* **Openlinks WebApp** — collaborative web platform
-* **Task Reminder App** — productivity-focused side project
-
----
-
 ## 🎯 Current Focus
 
 * Building scalable, production-ready front-end applications

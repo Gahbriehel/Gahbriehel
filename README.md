@@ -55,13 +55,6 @@ Front-End Developer focused on building clean, responsive, and user-friendly web
 
 ---
 
-## 🌍 Education
-
-**University of Ibadan**
-B.Sc. Ed in Biology (2017)
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gahbriehel\&show_icons=true\&theme=default)

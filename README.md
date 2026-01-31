@@ -1,4 +1,4 @@
-# Hi, I’m Gabriel Solomon 👋
+# Hi, I’m Gabriel Solomon 
 
 Front-End Developer focused on building clean, responsive, and user-friendly web applications. I enjoy turning designs into accessible, performant interfaces and collaborating closely with backend teams to deliver complete solutions.
 
